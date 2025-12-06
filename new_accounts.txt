@@ -1,0 +1,6 @@
+100 James 25000
+200 Martin 45000
+300 Gordon 65000
+400 kelvin 78200
+500 Hoguth 45500
+600 knight 48963
