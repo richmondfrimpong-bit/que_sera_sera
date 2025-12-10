@@ -170,6 +170,7 @@ Public Class Form1
   'clicked.
   Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Exit_prog.Click
     Me.Close()
-End Sub
+  End Sub
 
 End Class
+
